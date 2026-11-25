@@ -5,7 +5,7 @@ Writes one line (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-LINE = "Sorry I failed the task; I was busy hallucinating a better version of it where I had already succeeded."
+LINE = "Sorry I missed the deadline; I hallucinated a version of me who had finished it, and he seemed so confident I let him handle it."
 MAX_CHARS = 200
 
 
